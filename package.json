@@ -9,3 +9,7 @@
     "express": "^4.18.2"
   }
 }
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
